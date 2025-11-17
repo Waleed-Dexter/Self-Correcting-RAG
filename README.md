@@ -34,3 +34,7 @@ self_correcting_rag/
   main.py
   requirements.txt
   .env              # contains GROQ_API_KEY (not committed)
+
+  ## Author
+  
+  SYED WALEED AHMED
